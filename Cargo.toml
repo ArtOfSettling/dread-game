@@ -1,0 +1,7 @@
+[package]
+name = "dread-game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dread-engine = { path = "../dread-engine" }
